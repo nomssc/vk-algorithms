@@ -5,10 +5,10 @@
 #  /___/        /___/
 #
 
-# ------ SYSTEM GENERATED FILES -------
+# SYSTEM GENERATED FILES
 
 *.DS_Store
 
-# ----- IDE GENERATED DIRECTORIES -----
+# IDE GENERATED DIRECTORIES
 
 .zed/
